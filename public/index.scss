@@ -3,3 +3,6 @@
 @tailwind components;
 @tailwind utilities;
 
+.create-user__color.active{
+    border:2px solid white;
+}
